@@ -2,7 +2,7 @@ repo_name: Egaros/pstube
 report_id: 3fdf8ddeafab08ed48d5d0d4dbee35cb
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-31T08:02:09+00:00'
+timestamp: '2024-02-29T19:40:48+00:00'
 requested_by: prateekmedia
 provider: github
 branch: main
@@ -88,7 +88,7 @@ tools:
   last_updated_by: Prateek SU
   last_updated_on: 2021-07-11 10:38:33.000000000 Z
 - name: Swift
-  description: 'An innovative new programming language for Cocoa and Cocoa Touch. '
+  description: An innovative new programming language for Cocoa and Cocoa Touch.
   website_url: https://developer.apple.com/swift/
   license: Apache-2.0
   open_source: true
@@ -126,7 +126,7 @@ tools:
   last_updated_by: Prateek SU
   last_updated_on: 2022-06-29 10:13:54.000000000 Z
 - name: CMake
-  description: 'An open-source system that manages the build process '
+  description: An open-source system that manages the build process
   website_url: http://www.cmake.org/
   open_source: false
   hosted_saas: false
